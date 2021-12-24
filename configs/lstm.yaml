@@ -18,7 +18,7 @@ feature_method: o  # 'o': opensmile, 'l': librosa
 
 # Opensmile 配置，只在 'feature_method: o' 时 需要设置
 opensmile_config: IS10_paraling  # Opensmile 标准特征集
-opensmile_path: /Users/zou/opensmile-2.3.0  # Opensmile 安装路径
+opensmile_path: /Users/lenovo/Documents/GitHub/SER-Renovamen/opensmile-3.0 # Opensmile 安装路径
 
 # checkpoints
 checkpoint_path: checkpoints/  # checkpoint 存储路径
